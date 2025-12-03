@@ -10,11 +10,12 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/strapi": "4.25.0",
-    "@strapi/plugin-users-permissions": "4.25.0",
-    "@strapi/plugin-i18n": "4.25.0",
-    "pg": "8.8.0",
-    "pg-connection-string": "^2.6.2"
+  "@strapi/strapi": "4.25.0",
+  "@strapi/plugin-users-permissions": "4.25.0",
+  "@strapi/plugin-i18n": "4.25.0",
+  "pg": "8.8.0",
+  "pg-connection-string": "^2.6.2"
+},
   },
   "author": {
     "name": "Radio Supera 1"
